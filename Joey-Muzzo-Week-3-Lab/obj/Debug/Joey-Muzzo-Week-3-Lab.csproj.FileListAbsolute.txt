@@ -1,0 +1,13 @@
+c:\users\joeyr\source\repos\Joey-Muzzo-Week-3-Lab\Joey-Muzzo-Week-3-Lab\bin\Debug\Joey-Muzzo-Week-3-Lab.exe.config
+c:\users\joeyr\source\repos\Joey-Muzzo-Week-3-Lab\Joey-Muzzo-Week-3-Lab\bin\Debug\Joey-Muzzo-Week-3-Lab.exe
+c:\users\joeyr\source\repos\Joey-Muzzo-Week-3-Lab\Joey-Muzzo-Week-3-Lab\bin\Debug\Joey-Muzzo-Week-3-Lab.pdb
+c:\users\joeyr\source\repos\Joey-Muzzo-Week-3-Lab\Joey-Muzzo-Week-3-Lab\obj\Debug\Joey-Muzzo-Week-3-Lab.csprojResolveAssemblyReference.cache
+c:\users\joeyr\source\repos\Joey-Muzzo-Week-3-Lab\Joey-Muzzo-Week-3-Lab\obj\Debug\Joey-Muzzo-Week-3-Lab.csproj.CoreCompileInputs.cache
+c:\users\joeyr\source\repos\Joey-Muzzo-Week-3-Lab\Joey-Muzzo-Week-3-Lab\obj\Debug\Joey-Muzzo-Week-3-Lab.exe
+c:\users\joeyr\source\repos\Joey-Muzzo-Week-3-Lab\Joey-Muzzo-Week-3-Lab\obj\Debug\Joey-Muzzo-Week-3-Lab.pdb
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\Visual Studio Projects\Joey-Muzzo-Week-3-Lab\Joey-Muzzo-Week-3-Lab\bin\Debug\Joey-Muzzo-Week-3-Lab.exe.config
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\Visual Studio Projects\Joey-Muzzo-Week-3-Lab\Joey-Muzzo-Week-3-Lab\obj\Debug\Joey-Muzzo-Week-3-Lab.exe
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\Visual Studio Projects\Joey-Muzzo-Week-3-Lab\Joey-Muzzo-Week-3-Lab\obj\Debug\Joey-Muzzo-Week-3-Lab.pdb
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\Visual Studio Projects\Joey-Muzzo-Week-3-Lab\Joey-Muzzo-Week-3-Lab\bin\Debug\Joey-Muzzo-Week-3-Lab.exe
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\Visual Studio Projects\Joey-Muzzo-Week-3-Lab\Joey-Muzzo-Week-3-Lab\bin\Debug\Joey-Muzzo-Week-3-Lab.pdb
+E:\Micro Center Backup June 2019\SSD\Users\joeyr\Documents\Visual Studio Projects\Joey-Muzzo-Week-3-Lab\Joey-Muzzo-Week-3-Lab\obj\Debug\Joey-Muzzo-Week-3-Lab.csprojResolveAssemblyReference.cache
